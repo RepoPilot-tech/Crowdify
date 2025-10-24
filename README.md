@@ -16,7 +16,7 @@ Crowdify is a real-time music streaming platform where users can create rooms, i
 ## Tech Stack
 
 - **Frontend**: Next.js, React, TailwindCSS
-- **Backend**: https://github.com/Fahad-Dezloper/crowdify-backend [ REDIS, WEBSOCKET ]
+- **Backend**: https://github.com/RepoPilot-tech/crowdify-backend [ REDIS, WEBSOCKET ]
 - **Database**: PostgreSQL
 - **ORM**: Prisma
 - **Authentication**: NextAuth / OAuth
