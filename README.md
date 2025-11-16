@@ -20,7 +20,7 @@ Crowdify is a real-time music streaming platform where users can create rooms, i
 - **Database**: PostgreSQL
 - **ORM**: Prisma
 - **Authentication**: NextAuth / OAuth
-- **Streaming API**: YouTube API
+
 
 ## Setup Instructions
 
