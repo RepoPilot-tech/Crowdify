@@ -136,4 +136,4 @@ This project is licensed under the MIT License.
 
 ---
 
-<!-- 🚀 **Enjoy collaborative music streaming with Crowdify!** -->
+🚀 **Enjoy collaborative music streaming with Crowdify!**
